@@ -15,6 +15,7 @@ endif()
 add_executable(
     ${PROJECT_NAME}
     src/Ayanami.cpp
+    src/Image.cpp
 )
 
 target_include_directories(

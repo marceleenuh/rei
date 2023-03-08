@@ -1,5 +1,9 @@
 #include <cstdio>
 
+#include "Image.hpp"
+
 int main(int argc, char** argv) {
-    printf("Rei Says Hi!\n");
+    Image img("img/test.jpg");
+
+    img.save("img/saved.png");
 }
