@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.14)
 
-project(pumige CXX)
+project(rei CXX)
 set(CMAKE_EXPORT_COMPILE_COMANDS on)
 set(CMAKE_CXX_STANDARD_REQUIRED 17)
 set(CMAKE_BUILD_TYPE "Release")
